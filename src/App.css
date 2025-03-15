@@ -127,14 +127,6 @@ form h3 {
   margin-bottom: 15px;
 }
 
-/* Recipe Image */
-.card img {
-  width: 100%;
-  height: 200px;
-  object-fit: cover;
-  border-radius: 10px;
-  margin-bottom: 15px;
-}
 
 /* Button inside cards */
 .card .btn {
@@ -164,10 +156,6 @@ form h3 {
 
   .card {
     padding: 15px;
-  }
-
-  .card img {
-    height: 180px;
   }
 
   .navbar-brand {
